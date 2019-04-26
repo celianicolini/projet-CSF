@@ -24,3 +24,6 @@
 
 19/04/19 : COURS 6 - Récupération des nouvelles plaquettes et identificaion d'un problème : il faut décaler les charnières pour que les 
                      les plaquettes puissent se fermer correctement.
+                     
+26/04/19 : COURS 7 - Connexion d'un servomoteur avec notre Arduino : Nous aovns soudé sur notre carte des pins que nous avons reliés
+                     aux cables du servomoteur après avoir séparé les cables de ce dernier en 3 parties.
