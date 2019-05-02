@@ -1,3 +1,5 @@
+  Dans ce compte rendu nous donnons toutes les informations concernant les avancées pas à pas de notre projet appelé "Ask&Pack".
+
 11/03/19 : COURS 1 - Recherche d'une idée et d'un nom pour notre projet "ask&pack":
                       Il s'agit d'une machine automatisée capable de plier du linge (en particulier des tee-shirts pour l'instant).
 
@@ -8,7 +10,8 @@
 25/03/19 : COURS 2 - Création d'un contenu sur le site Tinkercad pour s'entrainer à l'utiliser. Nous avons également commencer 
                       la modélisation de nos plaquettes.
 
-27/03/19 : Légère amélioration de nos futures plaquettes (redimension) et création d'articulatio (gonds et liens) permettant une rotation.
+27/03/19 : Légère amélioration de nos futures plaquettes (redimension) et création d'articulatio (gonds et liens) permettant une 
+rotation.
 
 29/03/19 : COURS 3 - Suite de la création de nos plaquettes sur Tinkercad : nous avons réalisé qu'il était impossible de les imprimer
                       en taille réelle. Nous avons les avons donc réduites pour obtenir un modèle miniature de notre projet.
@@ -25,5 +28,16 @@
 19/04/19 : COURS 6 - Récupération des nouvelles plaquettes et identificaion d'un problème : il faut décaler les charnières pour que les 
                      les plaquettes puissent se fermer correctement.
                      
-26/04/19 : COURS 7 - Connexion d'un servomoteur avec notre Arduino : Nous aovns soudé sur notre carte des pins que nous avons reliés
+26/04/19 : COURS 7 - Connexion d'un servomoteur avec notre Arduino : Nous avons soudé sur notre carte des pins que nous avons reliés
                      aux cables du servomoteur après avoir séparé les cables de ce dernier en 3 parties.
+
+29/04/19 : COURS 8 - Mise en fonctionnement du moteur : Nous avons fini de connecter les cables entre l'Arduino et le moteur et nous 
+avons fait fonctionner le programme de base du servomoteur pour pouvoir obtenir une rotation de 180°.
+                     
+02/05/19 : Nous avons fini d'assembler nos plaquettes et nous avons fixé nos moteurs. Mise en marche de notre projet.
+
+  Finalement, notre projet c'est avéré plus compliqué que ce qu'il n'y parraissait. En effet, nous n'avons pas pu le réaliser en taille
+réelle. Nous avons tout de même essayé de créer une sorte de maquette se rapprochant le plus possible de notre idée de départ. 
+  Notre projet nous a permis de nous familiariser avec l'utilisation des imprimentes 3D, l'environnement Arduino, le fonctionnement des 
+servomoteurs (comprennant les branchements avec l'Arduino, etc), ainsi que l'organisation d'un Github.
+  
