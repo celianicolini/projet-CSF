@@ -1,0 +1,66 @@
+11/03/19 : COURS 1 - Recherche d'une idée et d'un nom pour notre projet "ask&pack":
+                      Il s'agit d'une machine automatisée capable de plier du linge (en particulier des tee-shirts pour l'instant).
+
+
+22/03/19 : Recherche des matériaux necéssaires à la création de notre projet (plaquettes, moteurs, etc) : 
+                      Nous nous sommes rendus compte de certaines difficultés concernant la capacité des moteurs choisis par rapport 
+                      à la taille et au poids de des futurs plaquettes.
+
+
+25/03/19 : COURS 2 - Création d'un contenu sur le site Tinkercad pour s'entrainer à l'utiliser. Nous avons également commencer 
+                      la modélisation de nos plaquettes.
+
+
+27/03/19 : Légère amélioration de nos futures plaquettes (redimension) et création d'articulatio (gonds et liens) permettant une 
+rotation.
+
+
+29/03/19 : COURS 3 - Suite de la création de nos plaquettes sur Tinkercad : 
+				nous avons réalisé qu'il était impossible de les imprimer en taille réelle.
+				Nous avons les avons donc réduites pour obtenir un modèle miniature de notre projet.
+                      		Dans un soucis d'optimisation du poids, nous avons décidé d'incerer des blocs de perçage dans les plaquettes.
+
+
+03/04/19 : J'ai commencé à m'intéresser au codage des applications android, il semblerait que le java soit ce qui fonctionne le mieux.
+                      
+
+05/04/19 : COURS 4 - Dernières modifications et amélioration majeure de nos plaquettes :
+                     		Nous avons réduit la taille des liens entre les gonds et les plaquettes elles-mêmes.
+		     Pour ma part j'ai cherché avec un collègue les différentes options disponibles pour coder en java.
+                      
+
+08/04/19 : Présentation intermédiaire du projet 'ask&pack'. Il m'a été suggéré d'utiliser Python plutôt que Java pour l'application, je n'y avait pas pensé.
+           Impression d'une partie de la modélisation :
+				nous nous sommes rendus compte que la charnière posait problème.
+
+
+10/04/19 : Résolution du problème de taille de la charnière.
+
+
+19/04/19 : COURS 6 - Récupération des nouvelles plaquettes et identificaion d'un problème : il faut décaler les charnières pour que les 
+                     les plaquettes puissent se fermer correctement.
+
+
+23/04/19 : J'avais un peu mis de côté le projet d'application, je m'y suis donc remis :
+				je vais devoir créé un .apk grâce a aux librairies de Kivy qui semble être populaire et efficace
+				d'après de nombreux sites/forums.
+
+
+24/04/19 : J'ai réussi à correctement installer Kivy et les exemples fournis semblent être fonctionnels, cependant après l'avoir fermé une fois
+	   je ne suis plus capable de lancer ni python ni Kivy. J'ai dû désintaller mes versions de python.
+
+
+25/04/19 : J'ai réinstaller les dernières versions de Python 3 compatibles avec Kivy, mais aucune ne semble fonctionner.
+                     
+
+26/04/19 : COURS 7 - Connexion d'un servomoteur avec notre Arduino : Nous avons soudé sur notre carte des pins que nous avons reliés
+                     aux cables du servomoteur après avoir séparé les cables de ce dernier en 3 parties.
+		     J'ai également demandé à un collègue qui comptait développer quelque chose comme moi d'essayer Kivy de son côté.
+
+
+29/04/19 : COURS 8 - Mise en fonctionnement du moteur : Nous avons fini de connecter les cables entre l'Arduino et le moteur et nous 
+		     avons fait fonctionner le programme de base du servomoteur pour pouvoir obtenir une rotation de 180°.
+		     Kivy n'a pas non fonctionné du côté de mon collègue non plus. Je manque de temps pour faire quoique ce soit maintenant...
+                     
+
+02/05/19 : Nous avons fini d'assembler nos plaquettes et nous avons fixé nos moteurs. Mise en marche de notre projet.
