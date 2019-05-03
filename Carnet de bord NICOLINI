@@ -1,1 +1,39 @@
+Mon carnet de bord concernant certaines parties communes et mes parties.
 
+11/03/19 : COURS 1 - Recherche d'une idée et d'un nom pour notre projet "ask&pack":
+                      Il s'agit d'une machine automatisée capable de plier du linge (en particulier des tee-shirts pour l'instant).
+
+22/03/19 : Recherhce des matériaux necéssaires à la création de notre projet (plaquettes, moteurs, etc) : 
+                      Nous nous sommes rendus compte de certaines difficultés concernant la capacité des moteurs choisis par rapport 
+                      à la taille et au poids de des futurs plaquettes.
+
+25/03/19 : COURS 2 - Création d'un contenu sur le site Tinkercad pour s'entrainer à l'utiliser. Nous avons également commencer 
+                      la modélisation de nos plaquettes.
+
+27/03/19 : A partir du 27 j'ai, de mon côté commencé à améliorier nos futures plaquettes en les redimensionnant et créant des articulations
+(gonds et liens) permettant une rotation sur Tinkercad.
+
+29/03/19 : COURS 3 - Suite de la création des plaquettes sur Tinkercad : nous avons réalisé qu'il était impossible de les imprimer
+                      en taille réelle. Nous avons les avons donc décider de les réduire pour obtenir un modèle miniature de notre projet.
+                      J'ai décidé d'incerer des blocs de perçage dans les plaquettes pour optimiser le poids de ces dernières.
+                      
+05/04/19 : COURS 4 - Dernières modifications et amélioration majeures des plaquettes :
+                      J'ai réduit la taille des liens entre les gonds et les plaquettes elles-mêmes.
+                      
+08/04/19 : Présentation intermidiaire du projet 'ask&pack'. 
+            A la suite de cette présentation j'ai modifié une dernière fois la mise en forme des plaquettes.
+
+10/04/19 : Résolution du problème de taille de la charnière.
+
+19/04/19 : COURS 6 - Récupération des nouvelles plaquettes.
+                     
+26/04/19 : COURS 7 - Connexion d'un servomoteur avec notre Arduino : Nous avons soudé sur notre carte des pins que nous avons reliés
+                     aux cables du servomoteur après avoir séparé les cables de ce dernier en 3 parties.
+
+29/04/19 : COURS 8 - Mise en fonctionnement du moteur : Nous avons fini de connecter les cables entre l'Arduino et le moteur et nous 
+avons fait fonctionner le programme de base du servomoteur pour pouvoir obtenir une rotation de 180°.
+                     
+02/05/19 : Nous avons fini d'assembler nos plaquettes et nous avons fixé nos moteurs. Mise en marche de notre projet.
+
+Au cours de e projet j'ai appris à me servir correctement du logiciel Tinkercad mais j'ai aussi compris le fonctionnement d'un servomoteur
+(même si cette partie ne me concernait pas directement).
