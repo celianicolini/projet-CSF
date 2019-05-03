@@ -70,4 +70,6 @@
 	   pense que nous allons devoir utiliser le code de transmission de la météo.
 	   
 	  
-Même si ce projet n'a pas été complété comme il se doit, j'ai tout de même appris à controller les Servomoteurs et à mieux comprendre l'environnement Arduino. Je vais tout de même essayer de trouver une solution pour pouvoir utiliser Kivy, puisque cet outil me sera surement utile pour plus tard.
+Même si ce projet n'a pas été complété comme il se doit, j'ai tout de même appris à controller les Servomoteurs et à mieux comprendre
+l'environnement Arduino. Je vais tout de même essayer de trouver une solution pour pouvoir utiliser Kivy, puisque cet outil me sera
+surement utile pour plus tard.
